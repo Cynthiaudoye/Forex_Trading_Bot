@@ -4,9 +4,7 @@
 
 This project aims to develop an automated trading system for the Forex market using machine learning models. The system predicts future prices of the GBP/USD currency pair and generates trading signals to execute buy and sell orders. The project explores various machine learning models, including Gated Recurrent Unit (GRU), Extreme Gradient Boosting (XGBoost), and Random Forest, and compares their performance.
 
-**Research Question**: How can machine learning algorithms be used to develop a profitable
-automated trading bot for the GBP/USD Forex market using GRU, XGBOOST,
-and Random Forest models?
+**Research Question**: How can machine learning algorithms be used to develop a profitable automated trading bot for the GBP/USD Forex market using GRU, XGBOOST, and Random Forest models?
 
 ## Data Description
 - **Source**: Yahoo Finance
@@ -61,7 +59,7 @@ The project evaluates the performance of the models based on various metrics and
 - Python 3.x
 - Libraries: pandas, numpy, scikit-learn, keras, xgboost, matplotlib
 
-  ## Usage
+## Usage
 
 **Prepare the Dataset**: Ensure the dataset is in the appropriate directory.
 
@@ -98,15 +96,12 @@ I would like to express my gratitude to my supervisor and colleagues for their s
 
 For any questions or suggestions, please feel free to reach out to me at cindymary621@gmail.com.
 
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue to discuss potential improvements or report bugs.
-
 
 ## Installation
 
 1. Clone the repository:
    ```sh
    git clone https://github.com/Cynthiaudoye/Forex_Trading_Bot.git
-
