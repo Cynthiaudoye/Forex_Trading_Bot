@@ -81,6 +81,28 @@ The pre-trained models are saved and uploaded to this directory in the repositor
 - `best_model_xgb.json`: The XGBoost model
 - `best_model_rf.pkl`: The Random Forest model
 
+## Future Work and Directions
+
+To further enhance the model's performance and robustness, future work could focus on:
+
+- **Advanced Trading Strategies**: Implement and test more sophisticated trading strategies such as momentum-based trading, mean reversion strategies, and algorithmic trading.
+- **Incorporating Additional Data**: Include macroeconomic indicators, news sentiment analysis, and other relevant data to improve model predictions.
+- **Real-time Trading**: Develop the system for real-time trading to evaluate its performance in live market conditions.
+- **Enhanced Risk Management**: Explore more advanced risk management techniques to optimize the trading strategy's performance.
+
+## Acknowledgments
+
+I would like to express my gratitude to my supervisor and colleagues for their support and guidance throughout this project. Special thanks to the open-source community for providing valuable resources and tools that made this project possible.
+
+## Contact
+
+For any questions or suggestions, please feel free to reach out to me at cindymary621@gmail.com.
+
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a pull request or open an issue to discuss potential improvements or report bugs.
+
 
 ## Installation
 
