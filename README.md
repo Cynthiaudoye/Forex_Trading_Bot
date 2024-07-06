@@ -61,6 +61,27 @@ The project evaluates the performance of the models based on various metrics and
 - Python 3.x
 - Libraries: pandas, numpy, scikit-learn, keras, xgboost, matplotlib
 
+  ## Usage
+
+**Prepare the Dataset**: Ensure the dataset is in the appropriate directory.
+
+**Data Preparation**: Run the data preparation script to clean and preprocess the data.
+
+**Model Training**: Train the machine learning models by running the model development script.
+
+**Model Evaluation**: Evaluate the models and generate trading signals using the evaluation script.
+
+**Trading Simulation**: Simulate trades and analyze the performance of the trading strategy.
+
+### Loading Saved Models
+
+The pre-trained models are saved and uploaded to this directory in the repository. These include:
+
+- `best_model_gru.keras`: The GRU model
+- `best_model_xgb.json`: The XGBoost model
+- `best_model_rf.pkl`: The Random Forest model
+
+
 ## Installation
 
 1. Clone the repository:
