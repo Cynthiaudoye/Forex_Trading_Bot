@@ -6,8 +6,6 @@ This project aims to develop an automated trading system for the Forex market us
 
 **Research Question**: How can machine learning algorithms be used to develop a profitable automated trading bot for the GBP/USD Forex market using GRU, XGBOOST, and Random Forest models?
 
-# Forex Market Prediction Project
-
 ## Data Ethics
 
 This project ensures ethical compliance by utilizing publicly available data from Yahoo Finance, which does not include personal information, thus adhering to GDPR guidelines. All data usage aligns with Yahoo Finance's terms of service and the ethical guidelines of the University of Hertfordshire. 
